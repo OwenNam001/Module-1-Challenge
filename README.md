@@ -5,8 +5,8 @@ Module 1 Challenge
 Junyhun (Jun) Nam
 
 ## Submit file name
-CrowdfundingBook.xlsx
-Module1-Report.docx
+- CrowdfundingBook.xlsx
+- Module1-Report.docx
 
 ## CrowdfundingBook.xlsx 
 - Crowdfunding tab : Original data with some new columns and updated by challenge instructions
